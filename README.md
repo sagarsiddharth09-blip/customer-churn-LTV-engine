@@ -16,11 +16,11 @@ A predictive analytics system designed to identify customers at high risk of chu
 | Role | Member |
 |---|---|
 | Team Leader | Prathap |
-| Member 2 | TBD |
-| Member 3 | TBD |
-| Member 4 | TBD |
-| Member 5 | TBD |
-| Member 6 | TBD |
+| Member 2 | Siril T Ninan |
+| Member 3 | Jogesh Mehra |
+| Member 4 | Akshay |
+| Member 5 | Ritika Ramnarayan Mandal |
+| Member 6 | Piyush Sagar |
 
 ## Technology Stack
 
