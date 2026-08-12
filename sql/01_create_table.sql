@@ -1,1 +1,23 @@
-
+CREATE TABLE telco_customers (
+customerID varchar(50),
+gender varchar(20),
+SeniorCitizen integer,
+Partner varchar(10),
+Dependents varchar(10),
+tenure integer,
+PhoneService varchar(20),
+MultipleLines varchar(30),
+InternetService varchar(30),
+OnlineSecurity varchar(30),
+OnlineBackup varchar(30),
+DeviceProtection varchar(30),
+TechSupport varchar(30),
+StreamingTV varchar(30),
+StreamingMovies varchar(30),
+Contract varchar(30),
+PaperlessBilling varchar(30),
+PaymentMethod varchar(50),
+MonthlyCharges numeric(10,2),
+TotalCharges varchar(30),
+Churn varchar(10)
+);
